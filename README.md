@@ -10,7 +10,7 @@ if (self != top){
 </pre>
 ##download
 <pre><code>
-cd ./<your website js dir>
+cd ./your website js dir
 git clone https://github.com/jarbob/JqueryPing.iframe.js.git
 </code></pre>
 ##how to use
