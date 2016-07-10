@@ -14,7 +14,7 @@ cd ./<your website js dir>
 git clone https://github.com/jarbob/JqueryPing.iframe.js.git
 </code></pre>
 ##how to use
-1.you must put jquery.js under v1.2 in your html 
+1.you must put jquery.js under v1.2 in your html  
 2.and use below code to function successfully!
 <pre><code>
 $(document).ready(function () {
