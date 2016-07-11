@@ -9,8 +9,8 @@ var Ping = function () {
 Ping.prototype.urlArr = new Array();
 Ping.prototype.check = function (u) {
 
-    $("<iframe style='display: none' width='1' height='1' id='PingFrame'></iframe>").appendTo('body');
-    $("#PingFrame").attr("src", u);
+   var tmpObj = $("<iframe style='display: none' width='1' height='1'></iframe>").appendTo('body');
+   tmpObj.attr("src", u);
 
 };
 
